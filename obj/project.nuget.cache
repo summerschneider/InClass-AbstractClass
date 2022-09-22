@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l04qqTqhWCC4s+uuMLPhXMyHcvAGDEAbaBh0j2enOKHMxptiqwn0XnzTkpL39Ssr1u3tyVKPmzH50NKMjhHOOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chunky Monkey\\Documents\\College\\WCTC\\Fall2022\\.Net Database Programming\\InClass-AbstractClass\\AbstractExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chunky Monkey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
